@@ -11,7 +11,7 @@
 </div>
 
 ## Ansible
-- [Ansible Showcase (Portfolio Version)](https://github.com/neilchan1/Ansible_Portfolio_Version)
+- [Ansible (Portfolio Showcase)](https://github.com/neilchan1/Ansible_Portfolio_Version)
 
 ## Python Projects
 - [AI Nickname Forge](https://github.com/neilchan1/AI_Nickname_Forge)
@@ -24,3 +24,6 @@
 - [Secret Auction](https://github.com/neilchan1/Secret_Auction)
 - [Tip Calculator](https://github.com/neilchan1/Tip_Calculator)
 - [Treasure Hunter Game](https://github.com/neilchan1/Treasure_Hunter_Game)
+
+## Terraform
+- [Terraform (Portfolio Showcase)](https://github.com/neilchan1/Teraform_Portfolio_Version)
